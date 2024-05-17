@@ -1,2 +1,6 @@
-# Toxic-Comment-Classification
-Toxic_Comments_Classification_NLP 
+#Toxic Comment Classification
+Dataset:Jigsaw Toxic Comment Classification Challenge Kaggle Competition
+
+Requirements:
+Bag-of-Words (BOW) model
+LSTM, GRU models
