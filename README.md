@@ -2,6 +2,6 @@
  
 Dataset: Jigsaw Toxic Comment Classification Challenge Kaggle Competition
 
-Requirements:
+Requirements:<br>
 Bag-of-Words (BOW) model
 LSTM, GRU models
